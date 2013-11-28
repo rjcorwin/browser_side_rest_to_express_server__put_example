@@ -1,0 +1,1 @@
+An example app to show how to send a PUT with data from the browser to an Express.js server.  Run `npm install`, then run `node app.js`, then go to `http://127.0.0.1:1337`, enter some data, press save, and then check your terminal for the data you entered in the browser.
